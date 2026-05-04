@@ -9,7 +9,7 @@ STA $200
 LDA $0 ; X Position
 STA $203
 
-LDA #$01 ; Color of sprite
+LDA #$1 ; Color of sprite
 STA $201
 ```
 
