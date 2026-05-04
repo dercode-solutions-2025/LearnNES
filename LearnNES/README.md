@@ -19,3 +19,5 @@ The projects shown in these scripts are as follows:
 - part1.asm - A sample "Hello World" script that displays a square on the screen.
 
 - part2.asm - A script that introduces functions, and making a 4x4 square on the screen.
+
+- part3.asm - A simple scripting that makes a rapidly color-changing square near the middle of the screen.
