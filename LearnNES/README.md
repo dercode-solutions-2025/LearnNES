@@ -1,4 +1,6 @@
-This is a guide for learning how to program for the Nintendo Entertainment System (NES). It shows examples for the NES Assembly, a modified 6502 version. Examples look like:
+This is a guide for learning how to program for the Nintendo Entertainment System (NES). It shows examples for the NES Assembly, a modified 6502 version. 
+
+ An example would look like:
 
 ```Assembly
 LDA $0 ; Y Position
